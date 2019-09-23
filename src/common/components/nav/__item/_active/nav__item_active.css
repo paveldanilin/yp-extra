@@ -1,0 +1,4 @@
+.nav__item_active a {
+    color: var(--color-typo-accent);
+    letter-spacing: 0.06em;
+}

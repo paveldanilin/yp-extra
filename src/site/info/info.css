@@ -1,0 +1,14 @@
+@import url(__list/info__list.css);
+@import url(__list-item/info__list-item.css);
+@import url(_size/info_size-normal.css);
+@import url(_space/info_space-title.css);
+@import url(_color/info_color-title.css);
+
+.info{
+    padding-bottom: 49px;
+    padding-top: 84px;
+}
+
+.info p {
+    color: var(--color-typo-secondary);
+}

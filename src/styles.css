@@ -1,0 +1,21 @@
+@import url(common/theme/theme.css);
+@import url(common/components/components.css);
+@import url(site/page.css);
+
+.debug {
+    border: 1px solid red;
+}
+
+.block_center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p.p-clear {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.no-hover {
+    pointer-events: none;
+}

@@ -1,0 +1,15 @@
+.nav_vert {
+    flex-direction: column;
+    align-content: center;
+}
+
+.nav_vert .nav__item {
+    padding-bottom: 19px;
+}
+
+/*
+.nav_vert .nav__item:hover {
+    cursor: pointer;
+    box-shadow: none;
+}
+ */

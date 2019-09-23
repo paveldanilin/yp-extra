@@ -1,0 +1,8 @@
+@import url(_space/support_space-patreon.css);
+@import url(_space/support_space-help.css);
+@import url(_space/support_space-donate.css);
+
+.support {
+    background-color: white;
+    padding-top: 71px;
+}

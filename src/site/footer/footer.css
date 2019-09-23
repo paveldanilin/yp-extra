@@ -1,0 +1,7 @@
+@import url(_padding/footer_padding-top.css);
+
+.footer {
+    background-color: var(--color-bg-dark);
+    color: var(--color-typo-dark);
+    height: 414px;
+}

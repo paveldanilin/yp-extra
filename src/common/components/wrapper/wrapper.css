@@ -1,0 +1,5 @@
+@import url(_center/wrapper_center.css);
+
+.wrapper {
+    display: flex;
+}

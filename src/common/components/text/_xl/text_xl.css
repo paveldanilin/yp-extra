@@ -1,0 +1,4 @@
+.text_xl {
+    font-size: var( --size-typo-xl);
+    line-height: var(--line-height-typo-xxl);
+}

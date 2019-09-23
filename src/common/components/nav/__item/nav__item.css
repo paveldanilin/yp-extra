@@ -1,0 +1,11 @@
+@import url(_active/nav__item_active.css);
+@import url(_hoverable/nav__item_hoverable.css);
+
+.nav__item {
+    /*Отсутпы в тему выкинуть нужнобы в space*/
+    font-size: var(--size-typo-m);
+    line-height: var(--line-height-typo-s);
+    font-family: var(--font-secondary);
+    font-style: normal;
+    font-weight: normal;
+}

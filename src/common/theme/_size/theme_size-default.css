@@ -1,0 +1,14 @@
+.theme_size-default {
+    --size-typo-s: 14px;
+    --size-typo-m: 15px;
+    --size-typo-l: 18px;
+    --size-typo-xl: 24px;
+    --size-typo-xxxl: 64px;
+
+    --line-height-typo-s: 18px;
+    --line-height-typo-m: 21px;
+    --line-height-typo-l: 26px;
+    --line-height-typo-xl: 30px;
+    --line-height-typo-xxl: 36px;
+    --line-height-typo-xxxl: 76px;
+}

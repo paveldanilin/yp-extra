@@ -1,0 +1,6 @@
+.text_hover-none {
+}
+
+.text_hover-none:hover {
+    text-decoration: none;
+}

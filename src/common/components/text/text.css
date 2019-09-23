@@ -1,0 +1,16 @@
+@import url(_center/text_center.css);
+@import url(_s/text_s.css);
+@import url(_l/text_l.css);
+@import url(_xl/text_xl.css);
+@import url(_color/text_color-accent.css);
+@import url(_color/text_color-smoky.css);
+@import url(_color/text_color-white.css);
+@import url(_decoration/text_decoration-underline.css);
+@import url(_decoration/text_decoration-none.css);
+@import url(_font/text_font-primary.css);
+@import url(_font/text_font-secondary.css);
+@import url(_hover/text_hover-none.css);
+@import url(_letter-space/text_letter-space.css);
+
+.text {
+}

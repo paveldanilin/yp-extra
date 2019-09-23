@@ -1,0 +1,8 @@
+@import url(_color/theme_color-default.css);
+@import url(_size/theme_size-default.css);
+@import url(_font/theme_font-default.css);
+@import url(_device/theme_device-desktop.css);
+
+.theme {
+    background-color: var(--color-bg-secondary);
+}

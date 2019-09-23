@@ -1,0 +1,17 @@
+.theme_color-default {
+    --color-bg-primary: #FFFFFF;
+    --color-typo-primary: #2D2D2D;
+
+    --color-bg-secondary: #E5E5E5;
+    --color-typo-secondary: #2D2D2D;
+
+    --color-bg-dark: #303030;
+    --color-typo-dark: white;
+
+    --color-typo-accent: #E7820C;
+
+    --color-typo-list: #616161;
+
+
+    --color-border: #616161;
+}

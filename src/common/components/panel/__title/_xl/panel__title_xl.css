@@ -1,0 +1,6 @@
+.panel__title_xl {
+    font-size: var(--size-typo-xl);
+    line-height: var(--line-height-typo-xxl);
+    letter-spacing: 0.06em;
+    padding-bottom: 18px;
+}
