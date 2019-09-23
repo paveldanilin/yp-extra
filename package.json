@@ -8,7 +8,7 @@
     "dev": "webpack --config webpack.dev.js",
     "local": "npm run-script dev && webpack-dev-server --config webpack.dev.js --progress",
     "lint": "eslint src",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run-script build && gh-pages -d dist"
   },
   "author": "pavel.k.danilin@gmail.com",
   "license": "MIT",
