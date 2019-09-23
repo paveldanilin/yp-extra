@@ -2,7 +2,8 @@
 Платформа образовательных, психологических, медийных инициатив, направленных на сокращение уровня сексуального насилия над детьми.
 
 ### Реализация страницы "Помочь проекту"
-[Страница](https://paveldanilin.github.io/yp-extra/support.html)
+- [Помочь проекту](https://paveldanilin.github.io/yp-extra/support.html)
+- [Стили кнопок](https://paveldanilin.github.io/yp-extra/buttons.html)
 
 ### Установка 
 * npm install
