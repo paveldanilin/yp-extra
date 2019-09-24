@@ -1,9 +1,9 @@
 const path = require('path');
 const miniCssExtractPlugin = require('mini-css-extract-plugin');
 const htmlWebpackPlugin = require('html-webpack-plugin');
-const copyPlugin = require('copy-webpack-plugin');
 const optimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const { ProjectConfig } = require(path.join(__dirname, 'project.config'));
 
 module.exports = {
     entry: './src/index.js',
@@ -18,10 +18,6 @@ module.exports = {
 
     plugins: [
         new CleanWebpackPlugin(),
-        /*
-        new copyPlugin([
-            { from: './assets/fonts', to: 'fonts' },
-        ]),*/
         new miniCssExtractPlugin({
             filename: '[name].[hash].css',
             chunkFilename: '[id].[hash].css',
@@ -37,6 +33,7 @@ module.exports = {
             template: "./src/support.html",
             hash: true,
             inject: true,
+            templateParameters: ProjectConfig
         }),
         new htmlWebpackPlugin({
             filename: "buttons.html",
