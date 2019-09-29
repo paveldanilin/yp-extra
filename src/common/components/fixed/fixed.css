@@ -1,0 +1,5 @@
+@import url(_top/fixed_top.css);
+@import url(_bottom/fixed_bottom.css);
+
+.fixed {
+}

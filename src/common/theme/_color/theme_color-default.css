@@ -1,5 +1,6 @@
 .theme_color-default {
     --color-bg-primary: #FFFFFF;
+    --color-bg-primary-alpha: #FFFFFF72;
     --color-typo-primary: #2D2D2D;
 
     --color-bg-secondary: #E5E5E5;

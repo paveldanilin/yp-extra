@@ -2,3 +2,7 @@
     color: var(--color-typo-accent);
     letter-spacing: 0.06em;
 }
+
+.nav__item_active a:hover {
+    cursor: default;
+}
