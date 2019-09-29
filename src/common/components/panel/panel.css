@@ -1,6 +1,7 @@
 @import url(__title/panel__title.css);
 @import url(__body/panel__body.css);
 @import url(_border/panel_border.css);
+@import url(_shadow/panel_shadow.css);
 
 .panel {
 
