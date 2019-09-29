@@ -1,5 +1,5 @@
 .header {
-    background-color: var(--color-bg-primary);
+    background-color: var(--color-bg-primary-alpha); /*rgba but in hex*/
     padding-top: 35px;
     padding-bottom: 35px;
 }
